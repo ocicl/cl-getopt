@@ -1,0 +1,10 @@
+* cl-getopt
+
+CFFI wrapper for libc getopt_long
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ghollisjr/cl-getopt.git   |
+| commit  | bc854bf  |
+| systems | cl-getopt |
+|---------+-------------------------------------------|
+
